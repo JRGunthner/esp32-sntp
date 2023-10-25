@@ -1,0 +1,26 @@
+{
+"C_Cpp.intelliSenseEngine": "default",
+"idf.portWin": "COM13",
+"idf.adapterTargetName": "esp32s3",
+"idf.openOcdConfigs": [
+    "interface/ftdi/esp32_devkitj_v1.cfg",
+    "target/esp32s3.cfg"
+],
+"files.associations": {
+    "esp_system.h": "c",
+    "*.ipp": "c",
+    "*.inc": "c",
+    "*.tcc": "c",
+    "chrono": "c",
+    "ctime": "c",
+    "future": "c",
+    "iomanip": "c",
+    "limits": "c",
+    "numeric": "c",
+    "ratio": "c",
+    "streambuf": "c",
+    "type_traits": "c",
+    "tuple": "c",
+    "utility": "c"
+}
+}
